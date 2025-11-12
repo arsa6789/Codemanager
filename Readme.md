@@ -1,6 +1,6 @@
 # Project Title
 
-A Simple Website for Testing.
+A simple repositry
 
 ## Description
 
